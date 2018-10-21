@@ -476,7 +476,7 @@ The output is stored in .err file.
 
 For **laplace**:
 
-![image-20181021102902798](../../../Library/Application Support/typora-user-images/image-20181021102902798.png)
+![](https://ws2.sinaimg.cn/large/006tNbRwly1fwg55jn0c8j30q9045mxt.jpg)
 
 For **laplace_new:**
 
