@@ -418,8 +418,8 @@ rms error = 0.000000
 With the help of **Occupancy calculator**, I have tried many times and finally got a 100% occupancy with:
 
 ```c
-#define BLOCK_X 16
-#define BLOCK_Y 8
+#define BLOCK_X 32
+#define BLOCK_Y 16
 ```
 
 This time, the output is:
