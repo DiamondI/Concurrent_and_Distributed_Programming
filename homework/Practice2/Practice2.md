@@ -1,8 +1,8 @@
 # Practice 2
 
-**Name: 魏程涌潇**
+**Name: xxx**
 
-**Student ID: 515030910598**
+**Student ID: xxx**
 
 ## Practical 5: CUBLAS and CUFFT libraries
 
